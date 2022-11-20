@@ -1,4 +1,4 @@
-# Домашнее задание к лекции 1.«Import. Module. Package»
+# Домашнее задание к лекции 1.«Import. Module. Package» <a href="https://github.com/RavenRVS/ADPY_HW1/find/master">(моё решение) </a>
 
 1. Разработать **структуру** программы "Бухгалтерия". 
 - main.py;  
